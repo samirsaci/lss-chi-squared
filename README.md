@@ -8,8 +8,14 @@
 Lean Six Sigma (LSS) is a method based on a stepwise approach to process improvements.This approach usually follows 5 steps 
 (Define, Measure, Analyze, Improve and Control) for improving existing process problems with unknown causes.
 
-### Medium Article
-In this [Medium Article](https://s-saci95.medium.com/lean-six-sigma-with-python-chi-squared-test-bd61489cb0cb), we will explore how Python can 
+### Youtube Video
+Find in the link below a short animated explained video to understand the concept behind this solution
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=yodNWnf7PQ0"><img src="https://github.com/samirsaci/sap-automation/blob/main/thumbnail.webp" alt="Explainer Video Link"></a>
+</div>
+
+### Article
+In this [Article](https://www.samirsaci.com/lean-six-sigma-with-python-chi-squared-test/), we will explore how Python can 
 replace Minitab (Software widely used by LSS experts) in the Analysis step to test hypotheses and 
 understand what could improve the performance metrics of a specific process.
 
