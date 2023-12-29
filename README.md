@@ -15,7 +15,7 @@ Find in the link below a short animated explained video to understand the concep
 </div>
 
 ### Article
-In this [Article](https://www.samirsaci.com/lean-six-sigma-with-python-chi-squared-test/), we will explore how Python can 
+In this [Article](https://s-saci95.medium.com/lean-six-sigma-with-python-chi-squared-test-bd61489cb0cb), we will explore how Python can 
 replace Minitab (Software widely used by LSS experts) in the Analysis step to test hypotheses and 
 understand what could improve the performance metrics of a specific process.
 
